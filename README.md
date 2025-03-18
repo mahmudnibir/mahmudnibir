@@ -21,6 +21,11 @@
     </ul>
 </details>
 
+
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=mahmudnibir.mahmudnibir)
+
+
+
 ---
 
 ![HTML](https://img.shields.io/badge/HTML-Advanced-E34F26?style=flat&logo=html5&logoColor=white)
@@ -89,9 +94,7 @@
 
 ---
 
-## 👀 Visitor Count:
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=mahmudnibir.mahmudnibir)
-
 ## 📩 Contact Me
 - Email: [Write here](mailto:nibirbbkr@gmail.com)
 - Facebook: [Nibir Mahmud](https://www.facebook.com/nibirmahmud17)
+
