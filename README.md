@@ -10,7 +10,7 @@
 
 <details open>
     <summary align="center"><h2> <img alt="GIF" src="./Image/Developer.gif" width="30px" /> Briefly about me </h2></summary>
-    <p align="center"> I am Game Developer  <img src="./Image/cat-coder.gif" width="30px"> from Rangpur, Bangladesh.</p>
+    <p align="center"> I am a Game Developer  <img src="./Image/cat-coder.gif" width="30px"> from Rangpur, Bangladesh.</p>
     <img align="right" alt="GIF" src="./Image/ai.gif" width=35% height=45%/>
     <h3> <img alt="GIF" src="./Image/paper.gif" width="20px" />  A little more detail: </h3>
     <ul>
