@@ -138,13 +138,13 @@ graph TD;
 
 ```
 
-#### Thanks for visiting :heart:
+#### Thanks for visiting :
 
 <p align="center"> 
 <img src="https://profile-counter.glitch.me/mahmudnibir/count.svg">  
 
 counting of visitors to this page in this section started from March 25, 2025
-<a href="http://s01.flagcounter.com/more/ap7"><img src="https://s01.flagcounter.com/countxl/ap7/bg_FFFFFF/txt_000000/border_CCCCCC/columns_8/maxflags_250/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
+<a href="http://s01.flagcounter.com/more/ap7"><img src="https://s01.flagcounter.com/countxl/ap7/bg_000000/txt_ffffff/border_CCCCCC/columns_8/maxflags_250/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
 
 
 ## Star History
@@ -164,19 +164,9 @@ counting of visitors to this page in this section started from March 25, 2025
 ---
   *If you liked my profile, you can Star ⭐ the repo and if you want to use this template just Fork it.* 
 
----
-
-
-## 📩 Contact Me
-- Email: [Write here](mailto:nibirbbkr@gmail.com)
-- Facebook: [Nibir Mahmud](https://www.facebook.com/nibirmahmud17)
-
----
 
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-83-blue)
-
 **🐱 My GitHub Data** 
 
 > 📦 101.0 kB Used in GitHub's Storage 
@@ -197,18 +187,6 @@ counting of visitors to this page in this section started from March 25, 2025
 🌃 Evening                57 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.59 % 
 🌙 Night                  355 commits         ██████████████████░░░░░░░   72.15 % 
 ```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   22 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 % 
-Tuesday                  44 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.94 % 
-Wednesday                44 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.94 % 
-Thursday                 321 commits         ████████████████░░░░░░░░░   65.24 % 
-Friday                   20 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 % 
-Saturday                 21 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 % 
-Sunday                   20 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 % 
-```
-
 
 📊 **This Week I Spent My Time On** 
 
@@ -255,6 +233,18 @@ Java                     1 repo              █░░░░░░░░░░�
 
  Last Updated on 25/03/2025 14:51:33 UTC
 <!--END_SECTION:waka-->
+
+
+
+---
+
+
+## 📩 Contact Me
+- Email: [Write here](mailto:nibirbbkr@gmail.com)
+- Facebook: [Nibir Mahmud](https://www.facebook.com/nibirmahmud17)
+
+---
+
 
 
 ![](assets/Bottom_down.svg)
