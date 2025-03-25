@@ -1,0 +1,30 @@
+name: GitHub Metrics
+
+on:
+  push:
+    branches:
+      - main  # Adjust this for your default branch
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Generate metrics SVG
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.classic.svg
+          token: ${{ secrets.GITHUB_TOKEN }}  # GitHub provides this token automatically
+          base: header, repositories
+          plugin_lines: yes
+
+      - name: Upload generated metrics image
+        uses: actions/upload-artifact@v3
+        with:
+          name: metrics-image
+          path: metrics.classic.svg
