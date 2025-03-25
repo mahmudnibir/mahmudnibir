@@ -1,0 +1,23 @@
+name: GitHub Metrics
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Run once per day (can adjust as per your needs)
+  workflow_dispatch: # Manual trigger
+
+jobs:
+  generate-metrics:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout the repository
+        uses: actions/checkout@v2
+
+      - name: Generate Metrics
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.reactions.svg
+          token: ${{ secrets.GITHUB_TOKEN }}  # Store your GitHub token in secrets
+          plugin_reactions: 'yes'
+          plugin_reactions_limit: 100  # Adjust the limit as needed
+          plugin_reactions_details: 'percentage'
