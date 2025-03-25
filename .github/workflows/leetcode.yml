@@ -23,7 +23,7 @@ jobs:
         with:
           filename: metrics.plugin.leetcode.svg  # The name of the generated image file
           plugin_leetcode: yes  # Enable LeetCode plugin
-          plugin_leetcode_user: "<Your LeetCode Username>"  # Replace with your LeetCode username
+          plugin_leetcode_user: "mahmudnibir"  # Replace with your LeetCode username
           plugin_leetcode_sections: solved, skills, recent  # Customize sections
           plugin_leetcode_limit_recent: 2  # Display the latest 2 submissions
 
@@ -43,5 +43,6 @@ jobs:
           name: leetcode-stats
           path: metrics.plugin.leetcode.svg  # Path to the generated file (SVG)
 
+      # Optional Debugging step
       - name: List directory contents (Debugging)
         run: ls -la
