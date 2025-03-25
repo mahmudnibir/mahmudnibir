@@ -1,0 +1,30 @@
+name: LeetCode Stats
+
+on:
+  push:
+    branches:
+      - main  # or any other branch you want to track
+
+jobs:
+  leetcode:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Generate LeetCode stats
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.leetcode.svg  # Name of the generated image
+          plugin_leetcode: yes  # Enable LeetCode plugin
+          plugin_leetcode_user: "mahmudnibir"  # Replace with your LeetCode username
+          plugin_leetcode_sections: solved, skills, recent  # Customize sections to display
+          plugin_leetcode_limit_recent: 2  # Display the latest 2 submissions
+          
+      - name: Commit generated SVG file
+        uses: EndBug/add-and-commit@v7
+        with:
+          author_name: "GitHub Actions"
+          author_email: "github-actions[bot]@users.noreply.github.com"
+          message: "Update LeetCode stats"
+          add: "metrics.plugin.leetcode.svg"  # Add the generated file to commit
