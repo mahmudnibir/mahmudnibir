@@ -97,9 +97,9 @@
 <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=mahmudnibir&show-other-skills=true" width="auto"></img>
 
 <div align="center">
-  <summary>Trophy: Github Profile Trophy</summary>
+<summary>🏆 Game Development Skills 🏆</summary>
 </div>
-
+ 
 <!-- Game Development Topics -->
 ```mermaid
 graph TD;
@@ -112,8 +112,7 @@ graph TD;
     Game-Development-->Sound-Design;
     Game-Development-->Level-Design;
 
-
-
+```
 
 <img src="/github-metrics.svg" alt="Metrics" width="100%">
 
