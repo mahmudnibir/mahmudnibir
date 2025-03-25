@@ -16,7 +16,7 @@
 
 
 <!--   my-ticker -->    
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Nibir+Mahmud;+Welcome+to+My+Profile!;Over+2+years+of+programming+experience;Always+learning+new+things+;Game+Development+enthusiast+;I+Play+Chess)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Nibir+Mahmud;+Welcome+to+My+Profile!;Over+2+years+of+programming+experience;Always+learning+new+things+;Game+Development+and+python+enthusiast+;I+Play+Chess)](https://git.io/typing-svg)
 
 <div align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25%&pause=1000&color=84C2C0&center=true&vCenter=true&width=435&height=25%&lines=Welcome+to+My+Profile+!;Hello+there+!;My+name+is+Nibir" alt="Typing SVG" /></a>
