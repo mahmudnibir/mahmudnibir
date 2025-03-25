@@ -86,14 +86,8 @@
 <!--   grid-snake ![](https://github.com/mahmudnibir/mahmudnibir/blob/output/github-contribution-grid-snake.svg) -->
 
 
-<!--   skyline 
-<a href="https://skyline.github.com/mahmudnibir/2022"><img src="./assets/2022.gif" alt="" width="auto" height="auto" /></a>
--->
-
-<!--  TOP codersrank для обновления картинки нужно обновить профиль на странице https://profile.codersrank.io/user/mahmudnibir-->
-
 <img src="https://cr-summary-widget.azurewebsites.net/api/api?username=mahmudnibir" width="auto"></img>
-<!--  2d history skills для обновления картинки нужно обновить профиль на странице https://profile.codersrank.io/user/mahmudnibir-->
+
 <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=mahmudnibir&show-other-skills=true" width="auto"></img>
 
 <div align="center">
@@ -125,26 +119,22 @@ graph TD;
   
  ```geojson
 {
- "type": "FeatureCollection",
- "features": [
-   {
-     "type": "Feature",
-     "id": 1,
-     "properties": {
-       "ID": 0
-     },
-     "geometry": {
-       "type": "Polygon",
-       "coordinates": [
-         [
-             [90.3742],
-             [23.7018]
-         ]
-       ]
-     }
-   }
- ]
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rangpur",
+        "country": "Bangladesh"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [89.2754, 25.7460]
+      }
+    }
+  ]
 }
+
 
 ```
 
