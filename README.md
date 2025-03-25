@@ -173,11 +173,13 @@ counting of visitors to this page in this section started from March 25, 2025
 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-5%20hrs%209%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-116-blue)
+
 **🐱 My GitHub Data** 
 
 > 📦 101.0 kB Used in GitHub's Storage 
- > 
-> 🏆 183 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -188,11 +190,23 @@ counting of visitors to this page in this section started from March 25, 2025
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                14 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.85 % 
-🌆 Daytime                66 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.41 % 
-🌃 Evening                57 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.59 % 
-🌙 Night                  355 commits         ██████████████████░░░░░░░   72.15 % 
+🌞 Morning                14 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.83 % 
+🌆 Daytime                66 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
+🌃 Evening                60 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
+🌙 Night                  355 commits         ██████████████████░░░░░░░   71.72 % 
 ```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   22 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
+Tuesday                  47 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.49 % 
+Wednesday                44 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.89 % 
+Thursday                 321 commits         ████████████████░░░░░░░░░   64.85 % 
+Friday                   20 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 % 
+Saturday                 21 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 % 
+Sunday                   20 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 % 
+```
+
 
 📊 **This Week I Spent My Time On** 
 
@@ -237,7 +251,7 @@ Java                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/mahmudnibir/mahmudnibir/main/assets/bar_graph.png)
 
 
- Last Updated on 25/03/2025 14:51:33 UTC
+ Last Updated on 25/03/2025 18:45:51 UTC
 <!--END_SECTION:waka-->
 
 
