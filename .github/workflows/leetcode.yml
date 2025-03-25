@@ -3,7 +3,7 @@ name: LeetCode Stats
 on:
   push:
     branches:
-      - main  # or any other branch you want to track
+      - main  # or the branch you want to track
 
 jobs:
   leetcode:
@@ -15,12 +15,21 @@ jobs:
       - name: Generate LeetCode stats
         uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin.leetcode.svg  # Name of the generated image
+          filename: metrics.plugin.leetcode.svg  # The name of the generated image file
           plugin_leetcode: yes  # Enable LeetCode plugin
-          plugin_leetcode_user: "mahmudnibir"  # Replace with your LeetCode username
-          plugin_leetcode_sections: solved, skills, recent  # Customize sections to display
+          plugin_leetcode_user: "<Your LeetCode Username>"  # Replace with your LeetCode username
+          plugin_leetcode_sections: solved, skills, recent  # Customize sections
           plugin_leetcode_limit_recent: 2  # Display the latest 2 submissions
-          
+
+      - name: Upload LeetCode stats artifact
+        uses: actions/upload-artifact@v3
+        with:
+          name: leetcode-stats
+          path: metrics.plugin.leetcode.svg  # Path to the generated file (SVG)
+
+      - name: List directory contents (Debugging)
+        run: ls -la
+
       - name: Commit generated SVG file
         uses: EndBug/add-and-commit@v7
         with:
