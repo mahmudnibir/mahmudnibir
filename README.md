@@ -97,25 +97,20 @@
 <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=mahmudnibir&show-other-skills=true" width="auto"></img>
 
 <div align="center">
-<summary>Trophy: Github Profile Trophy</summary>
+  <summary>Trophy: Github Profile Trophy</summary>
 </div>
 
-
-
-
-
-   <!--machine-learning-->
+<!-- Game Development Topics -->
 ```mermaid
 graph TD;
-    machine-learning-->Data;
-    machine-learning-->Algorithms;
-    machine-learning-->Statistical-Models;
-    machine-learning-->Feature-Engineering;
-    machine-learning-->Evaluation-Metrics;
-    machine-learning-->Deployment;
-   ```
-   
- 
+    Game-Development-->Game-Design;
+    Game-Development-->Programming;
+    Game-Development-->Artificial-Intelligence;
+    Game-Development-->Physics-Engines;
+    Game-Development-->Graphics-Rendering;
+    Game-Development-->Multiplayer-Systems;
+    Game-Development-->Sound-Design;
+    Game-Development-->Level-Design;
 
 
 
