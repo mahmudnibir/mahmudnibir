@@ -1,14 +1,17 @@
 ![](assets/Bottom_up.svg)
-
 <!--   my-icons -->
 <p align="center">
     <a href="https://github.com/mahmudnibir/mahmudnibir"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
-    <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.12-FF1493.svg"></a>
+    <a href="https://github.com/mahmudnibir/mahmudnibir"><img src="https://img.shields.io/badge/rating-★★★★☆-brightgreen"></a>
+    <a href="https://github.com/mahmudnibir/mahmudnibir"><img src="https://img.shields.io/badge/version-1.0.0-blue"></a>
+    <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.12-21F2BB.svg"></a>
     <a href="https://github.com/mahmudnibir/mahmudnibir/graphs/contributors"><img src="https://img.shields.io/github/contributors/mahmudnibir/mahmudnibir?color=blue"></a>
     <a href="https://github.com/mahmudnibir/mahmudnibir/stargazers"><img src="https://img.shields.io/github/stars/mahmudnibir/mahmudnibir.svg?logo=github"></a>
     <a href="https://github.com/mahmudnibir/mahmudnibir/network/members"><img src="https://img.shields.io/github/forks/mahmudnibir/mahmudnibir.svg?color=blue&logo=github"></a>
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=mahmudnibir.mahmudnibir" alt="visitors"/>   
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=mahmudnibir.mahmudnibir" alt="visitors"/>
+    
 </p>
+
 
 <!--   my-header-img -->
 ![](./src/header_.png)
