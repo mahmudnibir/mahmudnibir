@@ -179,8 +179,6 @@ counting of visitors to this page in this section started from March 25, 2025
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-18%20hrs%2055%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-118-blue)
-
 **🐱 My GitHub Data** 
 
 > 📦 112.6 kB Used in GitHub's Storage 
