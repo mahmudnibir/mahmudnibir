@@ -76,6 +76,10 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mahmudnibir&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/mahmudnibir?theme=dark&font=Zen%20Kaku%20Gothic%20New&ext=contest)
+
+
 ---
 
 ## 🏆 GitHub Trophies
