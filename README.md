@@ -1,4 +1,8 @@
 ![](assets/Bottom_up.svg)
+
+
+
+
 <!--   my-icons -->
 <p align="center">
     <a href="https://github.com/mahmudnibir/mahmudnibir"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
@@ -65,10 +69,10 @@
 
 
 <!--   GitHub stats graph -->
-### 📈 GitHub Activity Graph:
+<!--### 📈 GitHub Activity Graph:-->
 
 <!--   green snake -->
-![mahmudnibir's github activity graph](https://raw.githubusercontent.com/mahmudnibir/mahmudnibir/output/github-contribution-grid-snake.svg)
+<!--![mahmudnibir's github activity graph](https://raw.githubusercontent.com/mahmudnibir/mahmudnibir/output/github-contribution-grid-snake.svg)-->
 
 
 ---
@@ -91,17 +95,17 @@
 ---
 
 <!-- dark snake -->
-![mahmudnibir's github activity graph](https://raw.githubusercontent.com/mahmudnibir/mahmudnibir/output/github-contribution-grid-snake-dark.svg)
+<!--![mahmudnibir's github activity graph](https://raw.githubusercontent.com/mahmudnibir/mahmudnibir/output/github-contribution-grid-snake-dark.svg)-->
 
 <!--   profile-green-animate -->
-![](./profile-3d-contrib/profile-green-animate.svg)
+<!--![](./profile-3d-contrib/profile-green-animate.svg)-->
 
 <!--   grid-snake ![](https://github.com/mahmudnibir/mahmudnibir/blob/output/github-contribution-grid-snake.svg) -->
 
 
-<img src="https://cr-summary-widget.azurewebsites.net/api/api?username=mahmudnibir" width="auto"></img>
+<!--<img src="https://cr-summary-widget.azurewebsites.net/api/api?username=mahmudnibir" width="auto"></img>-->
 
-<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=mahmudnibir&show-other-skills=true" width="auto"></img>
+<!--<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=mahmudnibir&show-other-skills=true" width="auto"></img>-->
 
 <div align="center">
 <summary>🏆 Game Development Skills 🏆</summary>
@@ -175,10 +179,11 @@ counting of visitors to this page in this section started from March 25, 2025
 </p>
 
 ---
-  *If you liked my profile, you can Star ⭐ the repo and if you want to use this template just Fork it.* 
 
+> [!NOTE]
+> If you liked my profile, you can Star ⭐ the repo, and if you want to use this template, you can clone this repo and use it in your GitHub profile after editing
 
-
+---
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-18%20hrs%2055%20mins-blue)
 
@@ -267,7 +272,7 @@ Java                     1 repo              █░░░░░░░░░░�
 
 
 
-![Comment Reactions](https://github.com/mahmudnibir/mahmudnibir/blob/main/metrics.plugin.reactions.svg)
+<!--![Comment Reactions](https://github.com/mahmudnibir/mahmudnibir/blob/main/metrics.plugin.reactions.svg)-->
 
 
 ---
