@@ -3,6 +3,10 @@ import requests
 username = "nibirmahmud"
 url = f"https://api.chess.com/pub/player/{username}/stats"
 res = requests.get(url)
+
+if res.status_code != 200:
+    raise Exception("Failed to fetch data from Chess.com API.")
+
 data = res.json()
 
 def get_stats(mode):
@@ -25,17 +29,37 @@ daily = get_stats("daily")
 puzzle = data.get("tactics", {}).get("highest", {}).get("rating", "N/A")
 rush = data.get("puzzle_rush", {}).get("best", {}).get("score", "N/A")
 
-markdown = f\"\"\"\n### ♟️ Chess.com Stats for [{username}](https://www.chess.com/member/{username})\n\n| Mode   | Current | Best | Wins | Losses | Draws |\n|--------|---------|------|------|--------|-------|\n| Bullet | {bullet[0]} | {bullet[1]} | {bullet[2]} | {bullet[3]} | {bullet[4]} |\n| Blitz  | {blitz[0]} | {blitz[1]} | {blitz[2]} | {blitz[3]} | {blitz[4]} |\n| Rapid  | {rapid[0]} | {rapid[1]} | {rapid[2]} | {rapid[3]} | {rapid[4]} |\n| Daily  | {daily[0]} | {daily[1]} | {daily[2]} | {daily[3]} | {daily[4]} |\n\n🧩 **Puzzle Rating:** {puzzle}  \n⚡ **Puzzle Rush Score:** {rush}\n\"\"\"
+# Create markdown stats
+markdown = f"""### ♟️ Chess.com Stats for [{username}](https://www.chess.com/member/{username})
 
-# Replace section in README
+| Mode   | Current | Best | Wins | Losses | Draws |
+|--------|---------|------|------|--------|-------|
+| Bullet | {bullet[0]} | {bullet[1]} | {bullet[2]} | {bullet[3]} | {bullet[4]} |
+| Blitz  | {blitz[0]} | {blitz[1]} | {blitz[2]} | {blitz[3]} | {blitz[4]} |
+| Rapid  | {rapid[0]} | {rapid[1]} | {rapid[2]} | {rapid[3]} | {rapid[4]} |
+| Daily  | {daily[0]} | {daily[1]} | {daily[2]} | {daily[3]} | {daily[4]} |
+
+🧩 **Puzzle Rating:** {puzzle}  
+⚡ **Puzzle Rush Score:** {rush}
+"""
+
+# Replace the section in README.md
 with open("README.md", "r", encoding="utf-8") as f:
     content = f.read()
 
-start = "<!--chess-stats-start-->"
-end = "<!--chess-stats-end-->"
-before = content.split(start)[0]
-after = content.split(end)[1]
-new_content = before + start + "\\n" + markdown + "\\n" + end + after
+start_marker = "<!--chess-stats-start-->"
+end_marker = "<!--chess-stats-end-->"
+start = content.find(start_marker)
+end = content.find(end_marker)
+
+if start == -1 or end == -1:
+    raise Exception("Start or end markers not found in README.md")
+
+new_content = (
+    content[:start + len(start_marker)] +
+    "\n" + markdown + "\n" +
+    content[end:]
+)
 
 with open("README.md", "w", encoding="utf-8") as f:
     f.write(new_content)
