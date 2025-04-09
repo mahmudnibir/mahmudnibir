@@ -54,6 +54,10 @@
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=mahmudnibir.mahmudnibir)
 
 
+[Play a Game?](https://mahmudnibir.github.io/2048/)
+
+
+
 
 ---
 
