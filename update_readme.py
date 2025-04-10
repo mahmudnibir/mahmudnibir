@@ -42,13 +42,11 @@ markdown = f"""### ♟️ Chess.com Stats for [{username}](https://www.chess.com
 
 | Mode   | Current | Best | Wins | Losses | Draws |
 |--------|---------|------|------|--------|-------|
-| Bullet | {bullet[0]} | {bullet[1]} | {bullet[2]} | {bullet[3]} | {bullet[4]} |
-| Blitz  | {blitz[0]} | {blitz[1]} | {blitz[2]} | {blitz[3]} | {blitz[4]} |
-| Rapid  | {rapid[0]} | {rapid[1]} | {rapid[2]} | {rapid[3]} | {rapid[4]} |
-| Daily  | {daily[0]} | {daily[1]} | {daily[2]} | {daily[3]} | {daily[4]} |
+|⏱️ Rapid  | {rapid[0]} | {rapid[1]} | {rapid[2]} | {rapid[3]} | {rapid[4]} |
+|⚡ Blitz  | {blitz[0]} | {blitz[1]} | {blitz[2]} | {blitz[3]} | {blitz[4]} |
+|🚅 Bullet | {bullet[0]} | {bullet[1]} | {bullet[2]} | {bullet[3]} | {bullet[4]} |
 
 🧩 **Puzzle Rating:** {puzzle}  
-⚡ **Puzzle Rush Score:** {rush}
 """
 
 # === README UPDATE ===
