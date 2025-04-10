@@ -115,10 +115,10 @@
 ![mahmudnibir's github activity graph](https://raw.githubusercontent.com/mahmudnibir/mahmudnibir/output/github-contribution-grid-snake-dark.svg)
 
 <!--   profile-green-animate -->
-![](./profile-3d-contrib/profile-green-animate.svg)
+<!--![](./profile-3d-contrib/profile-green-animate.svg)-->
 
-<!--![3D Contribution Graph](https://raw.githubusercontent.com/mahmudnibir/mahmudnibir/main/profile-3d-contrib/profile-green-animate.svg)
--->
+![3D Contribution Graph](https://raw.githubusercontent.com/mahmudnibir/mahmudnibir/main/profile-3d-contrib/profile-green-animate.svg)
+
 
  grid-snake ![](https://github.com/mahmudnibir/mahmudnibir/blob/output/github-contribution-grid-snake.svg)
 
