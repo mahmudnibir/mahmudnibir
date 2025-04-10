@@ -112,12 +112,12 @@
 ---
 
 <!-- dark snake -->
-![mahmudnibir's github activity graph](https://raw.githubusercontent.com/mahmudnibir/mahmudnibir/output/github-contribution-grid-snake-dark.svg)
+<!--![mahmudnibir's github activity graph](https://raw.githubusercontent.com/mahmudnibir/mahmudnibir/output/github-contribution-grid-snake-dark.svg)
 
 <!--   profile-green-animate -->
 <!--![](./profile-3d-contrib/profile-green-animate.svg)-->
 
-![3D Contribution Graph](https://raw.githubusercontent.com/mahmudnibir/mahmudnibir/main/profile-3d-contrib/profile-green-animate.svg)
+<!--![3D Contribution Graph](https://raw.githubusercontent.com/mahmudnibir/mahmudnibir/main/profile-3d-contrib/profile-green-animate.svg) -->
 
 
  ![](https://github.com/mahmudnibir/mahmudnibir/blob/output/github-contribution-grid-snake.svg)
@@ -206,8 +206,6 @@ counting of visitors to this page in this section started from March 25, 2025
 ---
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-33%20hrs%207%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-314-blue)
 
 **🐱 My GitHub Data** 
 
