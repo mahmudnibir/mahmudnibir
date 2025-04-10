@@ -9,10 +9,13 @@ if res.status_code != 200:
 
 data = res.json()
 
+def safe_rating(val):
+    return val if isinstance(val, int) else "N/A"
+
 def get_stats(mode):
     stats = data.get(f"chess_{mode}", {})
-    last = stats.get("last", {}).get("rating", "N/A")
-    best = stats.get("best", {}).get("rating", "N/A")
+    last = safe_rating(stats.get("last", {}).get("rating"))
+    best = safe_rating(stats.get("best", {}).get("rating"))
     record = stats.get("record", {})
     return [
         last,
@@ -26,11 +29,11 @@ bullet = get_stats("bullet")
 blitz = get_stats("blitz")
 rapid = get_stats("rapid")
 daily = get_stats("daily")
-puzzle = data.get("tactics", {}).get("highest", {}).get("rating", "N/A")
+puzzle = safe_rating(data.get("tactics", {}).get("highest", {}).get("rating"))
 rush = data.get("puzzle_rush", {}).get("best", {}).get("score", "N/A")
 
 # Create markdown stats
-markdown = f"""### ♟️ Chess.com Stats for [{username}](https://www.chess.com/member/{username})
+markdown = f"""## ♟️ **Latest Chess.com Stats for [{username}](https://www.chess.com/member/{username})**
 
 | Mode   | Current | Best | Wins | Losses | Draws |
 |--------|---------|------|------|--------|-------|
@@ -57,7 +60,7 @@ if start == -1 or end == -1:
 
 new_content = (
     content[:start + len(start_marker)] +
-    "\n" + markdown + "\n" +
+    "\n\n" + markdown + "\n\n" +
     content[end:]
 )
 
