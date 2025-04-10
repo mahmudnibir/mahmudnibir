@@ -2,7 +2,7 @@ name: Update Chess.com Stats
 
 on:
   schedule:
-    - cron: "0 */2 * * *" # Every 2 hours
+    - cron: "0 */2 * * *"  # Every 2 hours
   workflow_dispatch:
 
 jobs:
@@ -28,5 +28,5 @@ jobs:
           git config --global user.name 'github-actions'
           git config --global user.email 'github-actions@github.com'
           git add README.md
-          git commit -m '♟️ Update Chess.com stats' || echo "No changes to commit"
-          git push "https://x-access-token:${{ secrets.CHESSCOMSTATS }}@github.com/${{ github.repository }}.git"
+          git commit -m '♟️ Update Chess.com stats' || echo "No changes"
+          git push https://${{ secrets.GH_TOKEN }}@github.com/mahmudnibir/mahmudnibir.git HEAD:main
