@@ -17,6 +17,8 @@ jobs:
 
       - name: Generate 3D Contribution Graph
         uses: yoshi389111/github-profile-3d-contrib@main
+        with:
+          USERNAME: mahmudnibir # Replace with your GitHub username
 
       - name: Commit and push changes
         run: |
