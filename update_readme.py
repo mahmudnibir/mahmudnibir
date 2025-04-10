@@ -1,21 +1,25 @@
 import requests
 
+# === CONFIGURATION ===
 username = "nibirmahmud"
 url = f"https://api.chess.com/pub/player/{username}/stats"
-res = requests.get(url)
+headers = {"User-Agent": "Mozilla/5.0"}
+
+# === FETCH DATA ===
+res = requests.get(url, headers=headers)
+print("Status Code:", res.status_code)
+print("Response preview:", res.text[:200])  # Show first 200 characters of response
 
 if res.status_code != 200:
     raise Exception("Failed to fetch data from Chess.com API.")
 
 data = res.json()
 
-def safe_rating(val):
-    return val if isinstance(val, int) else "N/A"
-
+# === HELPER FUNCTION ===
 def get_stats(mode):
     stats = data.get(f"chess_{mode}", {})
-    last = safe_rating(stats.get("last", {}).get("rating"))
-    best = safe_rating(stats.get("best", {}).get("rating"))
+    last = stats.get("last", {}).get("rating", "N/A")
+    best = stats.get("best", {}).get("rating", "N/A")
     record = stats.get("record", {})
     return [
         last,
@@ -25,15 +29,16 @@ def get_stats(mode):
         record.get("draw", 0)
     ]
 
+# === STATS ===
 bullet = get_stats("bullet")
 blitz = get_stats("blitz")
 rapid = get_stats("rapid")
 daily = get_stats("daily")
-puzzle = safe_rating(data.get("tactics", {}).get("highest", {}).get("rating"))
+puzzle = data.get("tactics", {}).get("highest", {}).get("rating", "N/A")
 rush = data.get("puzzle_rush", {}).get("best", {}).get("score", "N/A")
 
-# Create markdown stats
-markdown = f"""## ♟️ **Latest Chess.com Stats for [{username}](https://www.chess.com/member/{username})**
+# === MARKDOWN GENERATION ===
+markdown = f"""### ♟️ Chess.com Stats for [{username}](https://www.chess.com/member/{username})
 
 | Mode   | Current | Best | Wins | Losses | Draws |
 |--------|---------|------|------|--------|-------|
@@ -46,12 +51,13 @@ markdown = f"""## ♟️ **Latest Chess.com Stats for [{username}](https://www.c
 ⚡ **Puzzle Rush Score:** {rush}
 """
 
-# Replace the section in README.md
+# === README UPDATE ===
+start_marker = "<!--chess-stats-start-->"
+end_marker = "<!--chess-stats-end-->"
+
 with open("README.md", "r", encoding="utf-8") as f:
     content = f.read()
 
-start_marker = "<!--chess-stats-start-->"
-end_marker = "<!--chess-stats-end-->"
 start = content.find(start_marker)
 end = content.find(end_marker)
 
@@ -60,9 +66,11 @@ if start == -1 or end == -1:
 
 new_content = (
     content[:start + len(start_marker)] +
-    "\n\n" + markdown + "\n\n" +
+    "\n" + markdown + "\n" +
     content[end:]
 )
 
 with open("README.md", "w", encoding="utf-8") as f:
     f.write(new_content)
+
+print("✅ README.md updated successfully!")
