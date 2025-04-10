@@ -73,10 +73,10 @@
 
 
 <!--   GitHub stats graph -->
-<!--### 📈 GitHub Activity Graph:-->
+### 📈 GitHub Activity Graph:
 
 <!--   green snake -->
-<!--![mahmudnibir's github activity graph](https://raw.githubusercontent.com/mahmudnibir/mahmudnibir/output/github-contribution-grid-snake.svg)-->
+![mahmudnibir's github activity graph](https://raw.githubusercontent.com/mahmudnibir/mahmudnibir/output/github-contribution-grid-snake.svg)
 
 
 
