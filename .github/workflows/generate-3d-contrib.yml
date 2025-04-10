@@ -2,14 +2,17 @@ name: Generate 3D Contribution Graph
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Daily at 00:00 UTC
+    - cron: "0 0 * * *" # Daily at midnight
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    env:
+      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
     steps:
-      - name: Clone Repo
+      - name: Checkout repo
         uses: actions/checkout@v3
 
       - name: Generate 3D Contribution Graph
