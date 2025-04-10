@@ -117,12 +117,15 @@
 <!--   profile-green-animate -->
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
+<!--![3D Contribution Graph](https://raw.githubusercontent.com/mahmudnibir/mahmudnibir/main/profile-3d-contrib/profile-green-animate.svg)
+-->
+
  grid-snake ![](https://github.com/mahmudnibir/mahmudnibir/blob/output/github-contribution-grid-snake.svg)
 
 
 <img src="https://cr-summary-widget.azurewebsites.net/api/api?username=mahmudnibir" width="auto"></img>
 
-<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=mahmudnibir&show-other-skills=true" width="auto"></img>
+<!-- <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=mahmudnibir&show-other-skills=true" width="auto"></img>-->
 
 <div align="center">
 <summary>🏆 Game Development Skills 🏆</summary>
