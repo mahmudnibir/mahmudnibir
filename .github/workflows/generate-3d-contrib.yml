@@ -2,7 +2,7 @@ name: Generate 3D Contribution Graph
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Daily at midnight
+    - cron: "0 0 * * *" # Runs daily at midnight
   workflow_dispatch:
 
 jobs:
@@ -17,6 +17,8 @@ jobs:
 
       - name: Generate 3D Contribution Graph
         uses: yoshi389111/github-profile-3d-contrib@main
+        with:
+          USERNAME: mahmudnibir
 
       - name: Commit and Push
         run: |
