@@ -29,4 +29,4 @@ jobs:
           git config --global user.email 'github-actions@github.com'
           git add README.md
           git commit -m '♟️ Update Chess.com stats' || echo "No changes"
-          git push https://${{ secrets.CHESSCOMSTATS }}@github.com/mahmudnibir/mahmudnibir.git HEAD:main
+          git push https://${{ secrets.CHESSCOM }}@github.com/mahmudnibir/mahmudnibir.git HEAD:main
