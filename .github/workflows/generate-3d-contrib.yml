@@ -12,18 +12,16 @@ jobs:
       GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
     steps:
-      - name: Checkout repo
+      - name: Checkout repository
         uses: actions/checkout@v3
 
       - name: Generate 3D Contribution Graph
         uses: yoshi389111/github-profile-3d-contrib@main
-        with:
-          USERNAME: mahmudnibir
 
-      - name: Commit and Push
+      - name: Commit and push changes
         run: |
           git config --global user.name 'github-actions'
           git config --global user.email 'github-actions@github.com'
-          git add -A
-          git commit -m "🎨 update 3D contribution graph" || echo "No changes to commit"
+          git add profile-3d-contrib/
+          git commit -m "🧱 update 3D contribution graph" || echo "No changes to commit"
           git push
