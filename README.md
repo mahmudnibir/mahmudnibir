@@ -206,13 +206,13 @@ counting of visitors to this page in this section started from March 25, 2025
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-33%20hrs%2042%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-33%20hrs%2049%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-345-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 115.3 kB Used in GitHub's Storage 
+> 📦 115.4 kB Used in GitHub's Storage 
  > 
 > 🏆 307 Contributions in the Year 2025
  > 
@@ -249,18 +249,19 @@ Sunday                   124 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-Python                   30 mins             █████████████████████░░░░   85.23 % 
-HTML                     5 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.54 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
+Python                   30 mins             ██████████████████░░░░░░░   72.23 % 
+C                        6 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.25 % 
+HTML                     5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.32 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
 
 🔥 Editors: 
-VS Code                  36 mins             █████████████████████████   100.00 % 
+VS Code                  42 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Phishing                 36 mins             █████████████████████████   100.00 % 
+Phishing                 42 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  36 mins             █████████████████████████   100.00 % 
+Windows                  42 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -280,7 +281,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/mahmudnibir/mahmudnibir/main/assets/bar_graph.png)
 
 
- Last Updated on 16/04/2025 18:47:00 UTC
+ Last Updated on 17/04/2025 18:45:58 UTC
 <!--END_SECTION:waka-->
 
 
