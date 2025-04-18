@@ -206,15 +206,13 @@ counting of visitors to this page in this section started from March 25, 2025
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-33%20hrs%2049%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-34%20hrs%2030%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-345-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-344-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 115.4 kB Used in GitHub's Storage 
- > 
-> 🏆 307 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -249,19 +247,21 @@ Sunday                   124 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-Python                   30 mins             ██████████████████░░░░░░░   72.23 % 
-C                        6 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.25 % 
-HTML                     5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.32 % 
+Python                   1 hr 10 mins        █████████████████████░░░░   84.20 % 
+C                        6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 % 
+HTML                     5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.28 % 
+Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
 Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
 
 🔥 Editors: 
-VS Code                  42 mins             █████████████████████████   100.00 % 
+VS Code                  1 hr 23 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Phishing                 42 mins             █████████████████████████   100.00 % 
+Phishing                 42 mins             █████████████░░░░░░░░░░░░   50.96 % 
+Auto Proxy               41 mins             ████████████░░░░░░░░░░░░░   49.04 % 
 
 💻 Operating System: 
-Windows                  42 mins             █████████████████████████   100.00 % 
+Windows                  1 hr 23 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -281,7 +281,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/mahmudnibir/mahmudnibir/main/assets/bar_graph.png)
 
 
- Last Updated on 17/04/2025 18:45:58 UTC
+ Last Updated on 18/04/2025 18:45:00 UTC
 <!--END_SECTION:waka-->
 
 
