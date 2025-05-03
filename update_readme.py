@@ -40,11 +40,11 @@ rush = data.get("puzzle_rush", {}).get("best", {}).get("score", "N/A")
 # === MARKDOWN GENERATION ===
 markdown = f"""### ♟️ Chess.com Stats for [{username}](https://www.chess.com/member/{username})
 
-| Mode   | Current | Best | Wins | Losses | Draws |
-|--------|---------|------|------|--------|-------|
-|⏱️ Rapid  | {rapid[0]} | {rapid[1]} | {rapid[2]} | {rapid[3]} | {rapid[4]} |
-|⚡ Blitz  | {blitz[0]} | {blitz[1]} | {blitz[2]} | {blitz[3]} | {blitz[4]} |
-|🚅 Bullet | {bullet[0]} | {bullet[1]} | {bullet[2]} | {bullet[3]} | {bullet[4]} |
+| Mode   | Current | Wins | Losses | Draws |
+|--------|---------|-------|--------|-------|
+|⏱️ Rapid  | {rapid[0]} | {rapid[2]} | {rapid[3]} | {rapid[4]} |
+|⚡ Blitz  | {blitz[0]} | {blitz[2]} | {blitz[3]} | {blitz[4]} |
+|🚅 Bullet | {bullet[0]} | {bullet[2]} | {bullet[3]} | {bullet[4]} |
 
 🧩 **Puzzle Rating:** {puzzle}  
 """
