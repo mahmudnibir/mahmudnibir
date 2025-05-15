@@ -80,19 +80,6 @@
 
 
 
-<!--chess-stats-start-->
-### ♟️ Chess.com Stats for [nibirmahmud](https://www.chess.com/member/nibirmahmud)
-
-| Mode   | Current | Wins | Losses | Draws |
-|--------|---------|-------|--------|-------|
-|⏱️ Rapid  | 2300 | 908 | 731 | 106 |
-|⚡ Blitz  | 1802 | 1748 | 1656 | 137 |
-|🚅 Bullet | 1586 | 1103 | 896 | 57 |
-
-🧩 **Puzzle Rating:** 2789  
-
-<!--chess-stats-end-->
-
 ---
 
 ## 📊 GitHub Stats:
