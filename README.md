@@ -195,11 +195,11 @@ counting of visitors to this page in this section started from March 25, 2025
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-48%20hrs%2015%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-48-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-76-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 161.2 kB Used in GitHub's Storage 
+> 📦 161.3 kB Used in GitHub's Storage 
  > 
 > 🏆 634 Contributions in the Year 2025
  > 
@@ -273,7 +273,7 @@ Batchfile                1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/mahmudnibir/mahmudnibir/main/assets/bar_graph.png)
 
 
- Last Updated on 30/09/2025 18:46:55 UTC
+ Last Updated on 01/10/2025 18:47:52 UTC
 <!--END_SECTION:waka-->
 
 
