@@ -193,13 +193,15 @@ counting of visitors to this page in this section started from March 25, 2025
 
 ---
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-48%20hrs%2015%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-78-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 161.4 kB Used in GitHub's Storage 
+> 📦 161.1 kB Used in GitHub's Storage 
  > 
-> 🏆 634 Contributions in the Year 2025
+> 🏆 643 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -207,6 +209,47 @@ counting of visitors to this page in this section started from March 25, 2025
  > 
 > 🔑 41 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                23 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.40 % 
+🌆 Daytime                160 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.72 % 
+🌃 Evening                173 commits         █████░░░░░░░░░░░░░░░░░░░░   18.08 % 
+🌙 Night                  601 commits         ████████████████░░░░░░░░░   62.80 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   58 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
+Tuesday                  97 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.14 % 
+Wednesday                81 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.46 % 
+Thursday                 402 commits         ███████████░░░░░░░░░░░░░░   42.01 % 
+Friday                   92 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.61 % 
+Saturday                 58 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
+Sunday                   169 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.66 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Dhaka
+
+💬 Programming Languages: 
+TypeScript               7 mins              ██████████████████░░░░░░░   71.24 % 
+Other                    2 mins              ███████░░░░░░░░░░░░░░░░░░   28.76 % 
+
+🔥 Editors: 
+VS Code                  10 mins             █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+Alchemime-main           7 mins              ██████████████████░░░░░░░   71.24 % 
+Keylogger                2 mins              ███████░░░░░░░░░░░░░░░░░░   28.76 % 
+
+💻 Operating System: 
+Windows                  10 mins             █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -224,7 +267,7 @@ Batchfile                1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/mahmudnibir/mahmudnibir/main/assets/bar_graph.png)
 
 
- Last Updated on 03/10/2025 18:46:24 UTC
+ Last Updated on 04/10/2025 18:43:22 UTC
 <!--END_SECTION:waka-->
 
 
