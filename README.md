@@ -193,13 +193,15 @@ counting of visitors to this page in this section started from March 25, 2025
 
 ---
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-51-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-49%20hrs%2047%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-50-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 161.5 kB Used in GitHub's Storage 
+> 📦 161.2 kB Used in GitHub's Storage 
  > 
-> 🏆 824 Contributions in the Year 2025
+> 🏆 850 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -207,6 +209,45 @@ counting of visitors to this page in this section started from March 25, 2025
  > 
 > 🔑 42 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                32 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.75 % 
+🌆 Daytime                214 commits         █████░░░░░░░░░░░░░░░░░░░░   18.40 % 
+🌃 Evening                229 commits         █████░░░░░░░░░░░░░░░░░░░░   19.69 % 
+🌙 Night                  688 commits         ███████████████░░░░░░░░░░   59.16 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   112 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.63 % 
+Tuesday                  155 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
+Wednesday                115 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.89 % 
+Thursday                 429 commits         █████████░░░░░░░░░░░░░░░░   36.89 % 
+Friday                   93 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
+Saturday                 70 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.02 % 
+Sunday                   189 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.25 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Dhaka
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -224,7 +265,7 @@ Batchfile                1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/mahmudnibir/mahmudnibir/main/assets/bar_graph.png)
 
 
- Last Updated on 15/10/2025 18:49:16 UTC
+ Last Updated on 16/10/2025 18:49:43 UTC
 <!--END_SECTION:waka-->
 
 
