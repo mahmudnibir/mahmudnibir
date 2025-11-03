@@ -193,28 +193,28 @@ counting of visitors to this page in this section started from March 25, 2025
 
 ---
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-22-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-20-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 162.5 kB Used in GitHub's Storage 
+> 📦 163.1 kB Used in GitHub's Storage 
  > 
-> 🏆 1,164 Contributions in the Year 2025
+> 🏆 1,168 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
 > 📜 51 Public Repositories 
  > 
-> 🔑 45 Private Repositories 
+> 🔑 46 Private Repositories 
  > 
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               55 repos            ██████████████░░░░░░░░░░░   56.70 % 
-Python                   22 repos            ██████░░░░░░░░░░░░░░░░░░░   22.68 % 
-JavaScript               9 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.28 % 
-HTML                     4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 % 
-Batchfile                1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
+TypeScript               55 repos            ██████████████░░░░░░░░░░░   56.12 % 
+Python                   23 repos            ██████░░░░░░░░░░░░░░░░░░░   23.47 % 
+JavaScript               9 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.18 % 
+HTML                     4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
+Batchfile                1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
 ```
 
 
@@ -224,7 +224,7 @@ Batchfile                1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/mahmudnibir/mahmudnibir/main/assets/bar_graph.png)
 
 
- Last Updated on 02/11/2025 18:44:08 UTC
+ Last Updated on 03/11/2025 18:46:57 UTC
 <!--END_SECTION:waka-->
 
 
