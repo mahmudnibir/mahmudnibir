@@ -193,13 +193,11 @@ counting of visitors to this page in this section started from March 25, 2025
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-69%20hrs%2037%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 164.7 kB Used in GitHub's Storage 
+> 📦 164.8 kB Used in GitHub's Storage 
  > 
 > 🏆 1,266 Contributions in the Year 2025
  > 
@@ -209,50 +207,6 @@ counting of visitors to this page in this section started from March 25, 2025
  > 
 > 🔑 48 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                53 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 % 
-🌆 Daytime                296 commits         █████░░░░░░░░░░░░░░░░░░░░   18.85 % 
-🌃 Evening                344 commits         █████░░░░░░░░░░░░░░░░░░░░   21.91 % 
-🌙 Night                  877 commits         ██████████████░░░░░░░░░░░   55.86 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   182 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.59 % 
-Tuesday                  218 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.89 % 
-Wednesday                180 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.46 % 
-Thursday                 457 commits         ███████░░░░░░░░░░░░░░░░░░   29.11 % 
-Friday                   167 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.64 % 
-Saturday                 118 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.52 % 
-Sunday                   248 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.80 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Dhaka
-
-💬 Programming Languages: 
-Python                   2 hrs 24 mins       ████████████████████████░   96.82 % 
-Markdown                 4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.92 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
-
-🔥 Editors: 
-VS Code                  2 hrs 28 mins       █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-discord_ai_tutor-main    1 hr 45 mins        ██████████████████░░░░░░░   70.90 % 
-discord_ai_tutor         41 mins             ███████░░░░░░░░░░░░░░░░░░   27.82 % 
-Cloney                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
-
-💻 Operating System: 
-Windows                  2 hrs 28 mins       █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -270,7 +224,7 @@ Batchfile                1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/mahmudnibir/mahmudnibir/main/assets/bar_graph.png)
 
 
- Last Updated on 15/11/2025 18:45:32 UTC
+ Last Updated on 16/11/2025 18:47:00 UTC
 <!--END_SECTION:waka-->
 
 
