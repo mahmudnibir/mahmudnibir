@@ -193,15 +193,15 @@ counting of visitors to this page in this section started from March 25, 2025
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-69%20hrs%2037%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-69%20hrs%2043%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 166.3 kB Used in GitHub's Storage 
+> 📦 166.5 kB Used in GitHub's Storage 
  > 
-> 🏆 1,360 Contributions in the Year 2025
+> 🏆 1,361 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -213,20 +213,20 @@ counting of visitors to this page in this section started from March 25, 2025
 
 ```text
 🌞 Morning                72 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 % 
-🌆 Daytime                341 commits         █████░░░░░░░░░░░░░░░░░░░░   19.60 % 
-🌃 Evening                385 commits         ██████░░░░░░░░░░░░░░░░░░░   22.13 % 
-🌙 Night                  942 commits         ██████████████░░░░░░░░░░░   54.14 % 
+🌆 Daytime                342 commits         █████░░░░░░░░░░░░░░░░░░░░   19.64 % 
+🌃 Evening                385 commits         ██████░░░░░░░░░░░░░░░░░░░   22.11 % 
+🌙 Night                  942 commits         ██████████████░░░░░░░░░░░   54.11 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
 Monday                   200 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.49 % 
-Tuesday                  260 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.94 % 
-Wednesday                186 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.69 % 
-Thursday                 473 commits         ███████░░░░░░░░░░░░░░░░░░   27.18 % 
-Friday                   233 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.39 % 
-Saturday                 140 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 % 
-Sunday                   248 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.25 % 
+Tuesday                  260 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.93 % 
+Wednesday                186 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.68 % 
+Thursday                 473 commits         ███████░░░░░░░░░░░░░░░░░░   27.17 % 
+Friday                   234 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.44 % 
+Saturday                 140 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.04 % 
+Sunday                   248 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.24 % 
 ```
 
 
@@ -236,16 +236,16 @@ Sunday                   248 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               5 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  5 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Deyso                    5 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  5 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -265,7 +265,7 @@ Batchfile                1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/mahmudnibir/mahmudnibir/main/assets/bar_graph.png)
 
 
- Last Updated on 27/11/2025 18:49:00 UTC
+ Last Updated on 28/11/2025 18:49:15 UTC
 <!--END_SECTION:waka-->
 
 
