@@ -193,13 +193,13 @@ counting of visitors to this page in this section started from March 25, 2025
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-69%20hrs%2043%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-69%20hrs%2049%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 166.3 kB Used in GitHub's Storage 
+> 📦 166.4 kB Used in GitHub's Storage 
  > 
 > 🏆 1,378 Contributions in the Year 2025
  > 
@@ -236,16 +236,17 @@ Sunday                   250 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-TypeScript               5 mins              █████████████████████████   100.00 % 
+TypeScript               12 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  5 mins              █████████████████████████   100.00 % 
+VS Code                  12 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Deyso                    5 mins              █████████████████████████   100.00 % 
+waveapp                  6 mins              █████████████░░░░░░░░░░░░   52.16 % 
+Deyso                    5 mins              ████████████░░░░░░░░░░░░░   47.84 % 
 
 💻 Operating System: 
-Windows                  5 mins              █████████████████████████   100.00 % 
+Windows                  12 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -265,7 +266,7 @@ Batchfile                1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/mahmudnibir/mahmudnibir/main/assets/bar_graph.png)
 
 
- Last Updated on 03/12/2025 18:54:57 UTC
+ Last Updated on 04/12/2025 18:55:45 UTC
 <!--END_SECTION:waka-->
 
 
