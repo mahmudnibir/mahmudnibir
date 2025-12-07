@@ -193,13 +193,13 @@ counting of visitors to this page in this section started from March 25, 2025
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-73%20hrs%2029%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-74%20hrs%2025%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 166.5 kB Used in GitHub's Storage 
+> 📦 166.6 kB Used in GitHub's Storage 
  > 
 > 🏆 1,382 Contributions in the Year 2025
  > 
@@ -236,17 +236,22 @@ Sunday                   254 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-TypeScript               2 hrs 13 mins       ███████████████░░░░░░░░░░   58.90 % 
-Markdown                 1 hr 32 mins        ██████████░░░░░░░░░░░░░░░   41.10 % 
+TypeScript               2 hrs 13 mins       ████████████░░░░░░░░░░░░░   47.19 % 
+Markdown                 1 hr 32 mins        ████████░░░░░░░░░░░░░░░░░   32.93 % 
+CSS                      32 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.38 % 
+HTML                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
+Python                   11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 46 mins       █████████████████████████   100.00 % 
+VS Code                  4 hrs 42 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-waveapp                  3 hrs 46 mins       █████████████████████████   100.00 % 
+waveapp                  3 hrs 46 mins       ████████████████████░░░░░   80.13 % 
+Youtube-Playback-Speed-Co44 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.73 % 
+discord_ai_tutor         11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 % 
 
 💻 Operating System: 
-Windows                  3 hrs 46 mins       █████████████████████████   100.00 % 
+Windows                  4 hrs 42 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -266,7 +271,7 @@ Batchfile                1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/mahmudnibir/mahmudnibir/main/assets/bar_graph.png)
 
 
- Last Updated on 06/12/2025 18:47:33 UTC
+ Last Updated on 07/12/2025 18:47:09 UTC
 <!--END_SECTION:waka-->
 
 
