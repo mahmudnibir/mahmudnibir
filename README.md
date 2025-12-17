@@ -195,7 +195,7 @@ counting of visitors to this page in this section started from March 25, 2025
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-77%20hrs%2054%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 **🐱 My GitHub Data** 
 
@@ -236,18 +236,18 @@ Sunday                   256 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-JavaScript               2 hrs 36 mins       ██████████████████░░░░░░░   73.76 % 
-HTML                     55 mins             ███████░░░░░░░░░░░░░░░░░░   26.24 % 
+JavaScript               2 hrs 36 mins       █████████████████████░░░░   83.60 % 
+HTML                     30 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.40 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 32 mins       █████████████████████████   100.00 % 
+VS Code                  3 hrs 7 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-yt-extension-enhanced    3 hrs 25 mins       ████████████████████████░   96.82 % 
-UniMark                  6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.18 % 
+yt-extension-enhanced    3 hrs               ████████████████████████░   96.40 % 
+UniMark                  6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 % 
 
 💻 Operating System: 
-Windows                  3 hrs 32 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 7 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -267,7 +267,7 @@ Batchfile                1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/mahmudnibir/mahmudnibir/main/assets/bar_graph.png)
 
 
- Last Updated on 16/12/2025 18:55:42 UTC
+ Last Updated on 17/12/2025 18:56:10 UTC
 <!--END_SECTION:waka-->
 
 
