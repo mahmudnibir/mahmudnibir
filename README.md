@@ -193,13 +193,13 @@ counting of visitors to this page in this section started from March 25, 2025
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-77%20hrs%2057%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-80%20hrs%209%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 166.7 kB Used in GitHub's Storage 
+> 📦 166.8 kB Used in GitHub's Storage 
  > 
 > 🏆 1,423 Contributions in the Year 2025
  > 
@@ -236,18 +236,20 @@ Sunday                   256 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-HTML                     6 mins              █████████████████░░░░░░░░   66.13 % 
-JavaScript               3 mins              ████████░░░░░░░░░░░░░░░░░   33.87 % 
+JSON                     1 hr 20 mins        ██████████████░░░░░░░░░░░   56.76 % 
+HTML                     31 mins             ██████░░░░░░░░░░░░░░░░░░░   22.01 % 
+Markdown                 25 mins             █████░░░░░░░░░░░░░░░░░░░░   18.09 % 
+JavaScript               4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
 
 🔥 Editors: 
-VS Code                  10 mins             █████████████████████████   100.00 % 
+VS Code                  2 hrs 22 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-UniMark                  6 mins              █████████████████░░░░░░░░   66.13 % 
-yt-extension-enhanced    3 mins              ████████░░░░░░░░░░░░░░░░░   33.87 % 
+yt-extension-enhanced    2 hrs 15 mins       ████████████████████████░   95.25 % 
+UniMark                  6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.75 % 
 
 💻 Operating System: 
-Windows                  10 mins             █████████████████████████   100.00 % 
+Windows                  2 hrs 22 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -267,7 +269,7 @@ Batchfile                1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/mahmudnibir/mahmudnibir/main/assets/bar_graph.png)
 
 
- Last Updated on 19/12/2025 18:53:14 UTC
+ Last Updated on 20/12/2025 18:47:52 UTC
 <!--END_SECTION:waka-->
 
 
