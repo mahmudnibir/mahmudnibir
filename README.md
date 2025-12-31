@@ -199,7 +199,7 @@ counting of visitors to this page in this section started from March 25, 2025
 
 **🐱 My GitHub Data** 
 
-> 📦 167.3 kB Used in GitHub's Storage 
+> 📦 167.4 kB Used in GitHub's Storage 
  > 
 > 🏆 1,465 Contributions in the Year 2025
  > 
@@ -236,16 +236,16 @@ Sunday                   256 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-JSON                     29 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  29 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-yt-extension-enhanced    29 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  29 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -265,7 +265,7 @@ Batchfile                1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/mahmudnibir/mahmudnibir/main/assets/bar_graph.png)
 
 
- Last Updated on 30/12/2025 18:55:04 UTC
+ Last Updated on 31/12/2025 18:52:20 UTC
 <!--END_SECTION:waka-->
 
 
