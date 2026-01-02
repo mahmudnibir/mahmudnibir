@@ -193,8 +193,6 @@ counting of visitors to this page in this section started from March 25, 2025
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-80%20hrs%2038%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -209,45 +207,6 @@ counting of visitors to this page in this section started from March 25, 2025
  > 
 > 🔑 50 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                114 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.89 % 
-🌆 Daytime                354 commits         █████░░░░░░░░░░░░░░░░░░░░   18.29 % 
-🌃 Evening                439 commits         ██████░░░░░░░░░░░░░░░░░░░   22.68 % 
-🌙 Night                  1029 commits        █████████████░░░░░░░░░░░░   53.15 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   214 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.05 % 
-Tuesday                  274 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.15 % 
-Wednesday                254 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.12 % 
-Thursday                 506 commits         ███████░░░░░░░░░░░░░░░░░░   26.14 % 
-Friday                   285 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.72 % 
-Saturday                 147 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 % 
-Sunday                   256 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.22 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Dhaka
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -265,7 +224,7 @@ Batchfile                1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/mahmudnibir/mahmudnibir/main/assets/bar_graph.png)
 
 
- Last Updated on 01/01/2026 18:53:11 UTC
+ Last Updated on 02/01/2026 18:52:46 UTC
 <!--END_SECTION:waka-->
 
 
