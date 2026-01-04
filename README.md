@@ -193,20 +193,61 @@ counting of visitors to this page in this section started from March 25, 2025
 
 ---
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-81%20hrs%208%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 167.6 kB Used in GitHub's Storage 
+> 📦 166.7 kB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2026
+> 🏆 7 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
-> 📜 55 Public Repositories 
+> 📜 51 Public Repositories 
  > 
-> 🔑 50 Private Repositories 
+> 🔑 54 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                114 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.87 % 
+🌆 Daytime                356 commits         █████░░░░░░░░░░░░░░░░░░░░   18.32 % 
+🌃 Evening                444 commits         ██████░░░░░░░░░░░░░░░░░░░   22.85 % 
+🌙 Night                  1029 commits        █████████████░░░░░░░░░░░░   52.96 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   214 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.01 % 
+Tuesday                  274 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.10 % 
+Wednesday                254 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.07 % 
+Thursday                 506 commits         ███████░░░░░░░░░░░░░░░░░░   26.04 % 
+Friday                   285 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.67 % 
+Saturday                 147 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.57 % 
+Sunday                   263 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.54 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Dhaka
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -224,7 +265,7 @@ Batchfile                1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/mahmudnibir/mahmudnibir/main/assets/bar_graph.png)
 
 
- Last Updated on 03/01/2026 18:51:05 UTC
+ Last Updated on 04/01/2026 18:51:04 UTC
 <!--END_SECTION:waka-->
 
 
