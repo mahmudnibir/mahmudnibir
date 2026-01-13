@@ -236,20 +236,16 @@ Sunday                   263 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-TypeScript               22 mins             █████████████████████░░░░   83.19 % 
-Python                   4 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.22 % 
-Git                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  27 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-PortfolioAI              18 mins             █████████████████░░░░░░░░   69.29 % 
-Agri Mark Calculator     4 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.22 % 
-spoonbotaiPremium        3 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.49 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  27 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -269,7 +265,7 @@ Batchfile                1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/mahmudnibir/mahmudnibir/main/assets/bar_graph.png)
 
 
- Last Updated on 12/01/2026 18:57:33 UTC
+ Last Updated on 13/01/2026 18:56:21 UTC
 <!--END_SECTION:waka-->
 
 
