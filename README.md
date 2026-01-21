@@ -199,7 +199,7 @@ counting of visitors to this page in this section started from March 25, 2025
 
 **🐱 My GitHub Data** 
 
-> 📦 167.9 kB Used in GitHub's Storage 
+> 📦 166.8 kB Used in GitHub's Storage 
  > 
 > 🏆 27 Contributions in the Year 2026
  > 
@@ -265,7 +265,7 @@ Batchfile                1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/mahmudnibir/mahmudnibir/main/assets/bar_graph.png)
 
 
- Last Updated on 20/01/2026 19:43:10 UTC
+ Last Updated on 21/01/2026 19:06:39 UTC
 <!--END_SECTION:waka-->
 
 
