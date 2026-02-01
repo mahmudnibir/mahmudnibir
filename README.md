@@ -193,69 +193,28 @@ counting of visitors to this page in this section started from March 25, 2025
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-82%20hrs-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 167.6 kB Used in GitHub's Storage 
+> 📦 167.8 kB Used in GitHub's Storage 
  > 
-> 🏆 35 Contributions in the Year 2026
+> 🏆 56 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
-> 📜 53 Public Repositories 
+> 📜 55 Public Repositories 
  > 
 > 🔑 56 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                114 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.80 % 
-🌆 Daytime                362 commits         █████░░░░░░░░░░░░░░░░░░░░   18.41 % 
-🌃 Evening                451 commits         ██████░░░░░░░░░░░░░░░░░░░   22.94 % 
-🌙 Night                  1039 commits        █████████████░░░░░░░░░░░░   52.85 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   227 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.55 % 
-Tuesday                  276 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.04 % 
-Wednesday                260 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.22 % 
-Thursday                 507 commits         ██████░░░░░░░░░░░░░░░░░░░   25.79 % 
-Friday                   285 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.50 % 
-Saturday                 148 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.53 % 
-Sunday                   263 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.38 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Dhaka
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               59 repos            ██████████████░░░░░░░░░░░   54.13 % 
-Python                   25 repos            ██████░░░░░░░░░░░░░░░░░░░   22.94 % 
-JavaScript               10 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   09.17 % 
-HTML                     8 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.34 % 
-Batchfile                1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
+TypeScript               61 repos            ██████████████░░░░░░░░░░░   54.95 % 
+Python                   25 repos            ██████░░░░░░░░░░░░░░░░░░░   22.52 % 
+JavaScript               10 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   09.01 % 
+HTML                     8 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.21 % 
+Batchfile                1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
 ```
 
 
@@ -265,7 +224,7 @@ Batchfile                1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/mahmudnibir/mahmudnibir/main/assets/bar_graph.png)
 
 
- Last Updated on 31/01/2026 18:56:32 UTC
+ Last Updated on 01/02/2026 19:01:06 UTC
 <!--END_SECTION:waka-->
 
 
