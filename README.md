@@ -193,13 +193,15 @@ counting of visitors to this page in this section started from March 25, 2025
 
 ---
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-82%20hrs-blue?style=flat)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 167.8 kB Used in GitHub's Storage 
+> 📦 168.1 kB Used in GitHub's Storage 
  > 
-> 🏆 56 Contributions in the Year 2026
+> 🏆 71 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -207,6 +209,45 @@ counting of visitors to this page in this section started from March 25, 2025
  > 
 > 🔑 56 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                115 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.75 % 
+🌆 Daytime                375 commits         █████░░░░░░░░░░░░░░░░░░░░   18.75 % 
+🌃 Evening                460 commits         ██████░░░░░░░░░░░░░░░░░░░   23.00 % 
+🌙 Night                  1050 commits        █████████████░░░░░░░░░░░░   52.50 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   242 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.10 % 
+Tuesday                  276 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.80 % 
+Wednesday                260 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.00 % 
+Thursday                 507 commits         ██████░░░░░░░░░░░░░░░░░░░   25.35 % 
+Friday                   285 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.25 % 
+Saturday                 148 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.40 % 
+Sunday                   282 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.10 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Dhaka
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -224,7 +265,7 @@ Batchfile                1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/mahmudnibir/mahmudnibir/main/assets/bar_graph.png)
 
 
- Last Updated on 01/02/2026 19:01:06 UTC
+ Last Updated on 02/02/2026 19:09:13 UTC
 <!--END_SECTION:waka-->
 
 
