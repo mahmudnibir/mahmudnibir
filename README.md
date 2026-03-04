@@ -27,21 +27,29 @@ I build software products, developer tools, and game projects.
 ## 🚀 Work Showcase
 
 <div align="center">
-  <a href="https://github.com/mahmudnibir/Anger" target="_blank">
-    <img src="https://opengraph.githubassets.com/1/mahmudnibir/Anger" alt="Anger Project Preview" width="49%" />
+
+  <a href="https://github.com/mahmudnibir/2048">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mahmudnibir&repo=2048&theme=transparent&hide_border=true&title_color=000000&text_color=555555&icon_color=000000" alt="2048" />
   </a>
-  <a href="https://github.com/mahmudnibir/yt-extension-enhanced" target="_blank">
-    <img src="https://opengraph.githubassets.com/1/mahmudnibir/yt-extension-enhanced" alt="YT Extension Enhanced Preview" width="49%" />
+  <a href="https://github.com/mahmudnibir/CleanUpFollowing">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mahmudnibir&repo=CleanUpFollowing&theme=transparent&hide_border=true&title_color=000000&text_color=555555&icon_color=000000" alt="CleanUpFollowing" />
   </a>
+
+  <a href="https://github.com/mahmudnibir/HiddenMessage">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mahmudnibir&repo=HiddenMessage&theme=transparent&hide_border=true&title_color=000000&text_color=555555&icon_color=000000" alt="HiddenMessage" />
+  </a>
+  <a href="https://github.com/mahmudnibir/Forscape-Game">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mahmudnibir&repo=Forscape-Game&theme=transparent&hide_border=true&title_color=000000&text_color=555555&icon_color=000000" alt="Forscape-Game" />
+  </a>
+
+  <a href="https://github.com/mahmudnibir/Anger">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mahmudnibir&repo=Anger&theme=transparent&hide_border=true&title_color=000000&text_color=555555&icon_color=000000" alt="Anger" />
+  </a>
+  <a href="https://github.com/mahmudnibir/yt-extension-enhanced">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mahmudnibir&repo=yt-extension-enhanced&theme=transparent&hide_border=true&title_color=000000&text_color=555555&icon_color=000000" alt="yt-extension-enhanced" />
+  </a>
+
 </div>
-
-<br/>
-
-| Project | Quick Preview | Repository | Live URL |
-|---|---|---|---|
-| **Anger** | Product/engineering project from my active development workflow | [Open Repository](https://github.com/mahmudnibir/Anger) | Not deployed publicly yet |
-| **YT Extension Enhanced** | Browser-extension-focused development with practical UI enhancements | [Open Repository](https://github.com/mahmudnibir/yt-extension-enhanced) | Not deployed publicly yet |
-| **2048 Web Game** | Playable browser game deployment | [Open Repository](https://github.com/mahmudnibir/2048) | [Open Live Demo](https://mahmudnibir.github.io/2048/) |
 
 <div align="center">
   <a href="https://github.com/mahmudnibir?tab=repositories" target="_blank">
