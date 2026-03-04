@@ -2,7 +2,7 @@
   <img src="assets/Bottom_up.svg" alt="Header Top" width="100%" />
 
   # Nibir Mahmud
-  **Software Engineer | Game Developer | Tech Enthusiast**
+  **Software Enthusiast | Game Dev | Tech Enthusiast**
 
   [![Email](https://img.shields.io/badge/Email-black?style=flat-square&logo=gmail)](mailto:nibirbbkr@gmail.com)
   [![Facebook](https://img.shields.io/badge/Facebook-black?style=flat-square&logo=facebook)](https://www.facebook.com/nibirmahmud17)
@@ -24,7 +24,7 @@ I build software products, developer tools, and game projects.
 
 ---
 
-## 🚀 Work Showcase
+## Few of my Works
 
 <table>
   <tr>
@@ -200,26 +200,7 @@ I build software products, developer tools, and game projects.
 
 ---
 
-## 📊 Analytics & Impact
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahmudnibir&theme=transparent&hide_border=true&title_color=000000&text_color=000000&icon_color=000000" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahmudnibir&theme=transparent&hide_border=true&title_color=000000&text_color=000000&icon_color=000000" alt="GitHub Streak" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/mahmudnibir/mahmudnibir/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="100%" />
-</div>
-
----
-
-
-
----
-
-## 📬 Wanna say HELLO?
+##  Wanna say HELLO?
 
 - **Email:** [nibirbbkr@gmail.com](mailto:nibirbbkr@gmail.com)
 - **Facebook:** [Nibir Mahmud](https://www.facebook.com/nibirmahmud17)
