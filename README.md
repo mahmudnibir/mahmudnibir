@@ -29,80 +29,135 @@ I build software products, developer tools, and game projects.
 <table>
   <tr>
     <td valign="top" width="50%">
-      <a href="https://github.com/mahmudnibir/2048">
-        <b>⬜ 2048</b>
-      </a>
-      <br/>
-      A modern and responsive web-based version of the classic 2048 puzzle. Built with HTML, CSS, and JavaScript, featuring smooth animations and intuitive controls.
-      <br/><br/>
+      <a href="https://github.com/mahmudnibir/2048"><b>2048</b></a>
+      &nbsp;
       <img src="https://img.shields.io/github/stars/mahmudnibir/2048?style=flat-square&labelColor=black&color=black&logo=star&logoColor=white" />
-      <img src="https://img.shields.io/github/forks/mahmudnibir/2048?style=flat-square&labelColor=black&color=black&logo=git-fork&logoColor=white" />
+      <img src="https://img.shields.io/github/forks/mahmudnibir/2048?style=flat-square&labelColor=black&color=black" />
       <br/>
-      <img src="https://img.shields.io/badge/HTML-e34c26?style=flat-square&logo=html5&logoColor=white" />
+      A modern responsive web-based version of the classic 2048 puzzle. Smooth animations, intuitive controls, clean UI.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/HTML-e34c26?style=flat-square" />
+      <img src="https://img.shields.io/badge/css-563d7c?style=flat-square" />
+      <img src="https://img.shields.io/badge/javascript-black?style=flat-square" />
+      <img src="https://img.shields.io/badge/web--game-black?style=flat-square" />
     </td>
     <td valign="top" width="50%">
-      <a href="https://github.com/mahmudnibir/CleanUpFollowing">
-        <b>⬜ CleanUpFollowing</b>
-      </a>
-      <br/>
-      Automated GitHub unfollow script to manage your following list efficiently.
-      <br/><br/>
+      <a href="https://github.com/mahmudnibir/CleanUpFollowing"><b>CleanUpFollowing</b></a>
+      &nbsp;
       <img src="https://img.shields.io/github/stars/mahmudnibir/CleanUpFollowing?style=flat-square&labelColor=black&color=black&logo=star&logoColor=white" />
-      <img src="https://img.shields.io/github/forks/mahmudnibir/CleanUpFollowing?style=flat-square&labelColor=black&color=black&logo=git-fork&logoColor=white" />
+      <img src="https://img.shields.io/github/forks/mahmudnibir/CleanUpFollowing?style=flat-square&labelColor=black&color=black" />
       <br/>
-      <img src="https://img.shields.io/badge/Python-3572A5?style=flat-square&logo=python&logoColor=white" />
+      Automated GitHub unfollow script to efficiently manage your following list.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Python-3572A5?style=flat-square" />
+      <img src="https://img.shields.io/badge/automation-black?style=flat-square" />
+      <img src="https://img.shields.io/badge/unfollow-black?style=flat-square" />
+      <img src="https://img.shields.io/badge/script-black?style=flat-square" />
     </td>
   </tr>
   <tr>
     <td valign="top" width="50%">
-      <a href="https://github.com/mahmudnibir/HiddenMessage">
-        <b>⬜ HiddenMessage</b>
-      </a>
+      <a href="https://github.com/mahmudnibir/shooting-game-2.0"><b>shooting-game-2.0</b></a>
+      &nbsp;
+      <img src="https://img.shields.io/github/stars/mahmudnibir/shooting-game-2.0?style=flat-square&labelColor=black&color=black&logo=star&logoColor=white" />
+      <img src="https://img.shields.io/github/forks/mahmudnibir/shooting-game-2.0?style=flat-square&labelColor=black&color=black" />
       <br/>
-      A Python script that uses LSB steganography to hide and extract secret text in images. Encrypts the message with AES before embedding.
+      A dynamic shooting game with advanced features: grenade throwing, ammo management, health system, and multiple levels.
       <br/><br/>
+      <img src="https://img.shields.io/badge/Python-3572A5?style=flat-square" />
+      <img src="https://img.shields.io/badge/pygame-black?style=flat-square" />
+      <img src="https://img.shields.io/badge/shooting--game-black?style=flat-square" />
+    </td>
+    <td valign="top" width="50%">
+      <a href="https://github.com/mahmudnibir/Scream-game"><b>Scream-game</b></a>
+      &nbsp;
+      <img src="https://img.shields.io/github/stars/mahmudnibir/Scream-game?style=flat-square&labelColor=black&color=black&logo=star&logoColor=white" />
+      <img src="https://img.shields.io/github/forks/mahmudnibir/Scream-game?style=flat-square&labelColor=black&color=black" />
+      <br/>
+      A voice-based game where the more you scream, the higher your score. Unique mic-driven gameplay mechanic.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Python-3572A5?style=flat-square" />
+      <img src="https://img.shields.io/badge/pygame-black?style=flat-square" />
+      <img src="https://img.shields.io/badge/fun--game-black?style=flat-square" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <a href="https://github.com/mahmudnibir/HiddenMessage"><b>HiddenMessage</b></a>
+      &nbsp;
       <img src="https://img.shields.io/github/stars/mahmudnibir/HiddenMessage?style=flat-square&labelColor=black&color=black&logo=star&logoColor=white" />
-      <img src="https://img.shields.io/github/forks/mahmudnibir/HiddenMessage?style=flat-square&labelColor=black&color=black&logo=git-fork&logoColor=white" />
+      <img src="https://img.shields.io/github/forks/mahmudnibir/HiddenMessage?style=flat-square&labelColor=black&color=black" />
       <br/>
-      <img src="https://img.shields.io/badge/Python-3572A5?style=flat-square&logo=python&logoColor=white" />
+      LSB steganography tool to hide and extract AES-encrypted text inside images — privacy through invisibility.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Python-3572A5?style=flat-square" />
+      <img src="https://img.shields.io/badge/steganography-black?style=flat-square" />
+      <img src="https://img.shields.io/badge/encryption-black?style=flat-square" />
+      <img src="https://img.shields.io/badge/security-black?style=flat-square" />
     </td>
     <td valign="top" width="50%">
-      <a href="https://github.com/mahmudnibir/Forscape-Game">
-        <b>⬜ Forscape-Game</b>
-      </a>
-      <br/>
-      A thrilling 2D platformer developed with Python and Pygame, featuring stunning graphics, smooth animations, double jump ability, and collectible gems.
-      <br/><br/>
+      <a href="https://github.com/mahmudnibir/Forscape-Game"><b>Forscape-Game</b></a>
+      &nbsp;
       <img src="https://img.shields.io/github/stars/mahmudnibir/Forscape-Game?style=flat-square&labelColor=black&color=black&logo=star&logoColor=white" />
-      <img src="https://img.shields.io/github/forks/mahmudnibir/Forscape-Game?style=flat-square&labelColor=black&color=black&logo=git-fork&logoColor=white" />
+      <img src="https://img.shields.io/github/forks/mahmudnibir/Forscape-Game?style=flat-square&labelColor=black&color=black" />
       <br/>
-      <img src="https://img.shields.io/badge/Python-3572A5?style=flat-square&logo=python&logoColor=white" />
+      A thrilling 2D platformer with Pygame — stunning graphics, smooth animations, double jump, and collectible gems.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Python-3572A5?style=flat-square" />
+      <img src="https://img.shields.io/badge/pygame-black?style=flat-square" />
+      <img src="https://img.shields.io/badge/platformer-black?style=flat-square" />
     </td>
   </tr>
   <tr>
     <td valign="top" width="50%">
-      <a href="https://github.com/mahmudnibir/Anger">
-        <b>⬜ Anger</b>
-      </a>
+      <a href="https://github.com/mahmudnibir/Square-race-Game"><b>Square-race-Game</b></a>
+      &nbsp;
+      <img src="https://img.shields.io/github/stars/mahmudnibir/Square-race-Game?style=flat-square&labelColor=black&color=black&logo=star&logoColor=white" />
+      <img src="https://img.shields.io/github/forks/mahmudnibir/Square-race-Game?style=flat-square&labelColor=black&color=black" />
       <br/>
-      An active product and engineering project from my development workflow.
+      A Python-based square racing simulation game with competitive gameplay mechanics.
       <br/><br/>
-      <img src="https://img.shields.io/github/stars/mahmudnibir/Anger?style=flat-square&labelColor=black&color=black&logo=star&logoColor=white" />
-      <img src="https://img.shields.io/github/forks/mahmudnibir/Anger?style=flat-square&labelColor=black&color=black&logo=git-fork&logoColor=white" />
-      <br/>
-      <img src="https://img.shields.io/github/languages/top/mahmudnibir/Anger?style=flat-square&labelColor=black&color=black" />
+      <img src="https://img.shields.io/badge/Python-3572A5?style=flat-square" />
+      <img src="https://img.shields.io/badge/simulation--game-black?style=flat-square" />
+      <img src="https://img.shields.io/badge/pygame-black?style=flat-square" />
     </td>
     <td valign="top" width="50%">
-      <a href="https://github.com/mahmudnibir/yt-extension-enhanced">
-        <b>⬜ yt-extension-enhanced</b>
-      </a>
+      <a href="https://github.com/mahmudnibir/AutoCommitter"><b>AutoCommitter</b></a>
+      &nbsp;
+      <img src="https://img.shields.io/github/stars/mahmudnibir/AutoCommitter?style=flat-square&labelColor=black&color=black&logo=star&logoColor=white" />
+      <img src="https://img.shields.io/github/forks/mahmudnibir/AutoCommitter?style=flat-square&labelColor=black&color=black" />
       <br/>
-      A browser extension focused on practical UI enhancements for YouTube.
+      Automates Git commits with custom timestamps using Moment.js and Simple-Git. Great for learning Git automation.
       <br/><br/>
-      <img src="https://img.shields.io/github/stars/mahmudnibir/yt-extension-enhanced?style=flat-square&labelColor=black&color=black&logo=star&logoColor=white" />
-      <img src="https://img.shields.io/github/forks/mahmudnibir/yt-extension-enhanced?style=flat-square&labelColor=black&color=black&logo=git-fork&logoColor=white" />
+      <img src="https://img.shields.io/badge/JavaScript-f1e05a?style=flat-square" />
+      <img src="https://img.shields.io/badge/git--automation-black?style=flat-square" />
+      <img src="https://img.shields.io/badge/autocommit-black?style=flat-square" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <a href="https://github.com/mahmudnibir/My-Porfolio"><b>My-Porfolio</b></a>
+      &nbsp;
+      <img src="https://img.shields.io/github/stars/mahmudnibir/My-Porfolio?style=flat-square&labelColor=black&color=black&logo=star&logoColor=white" />
+      <img src="https://img.shields.io/github/forks/mahmudnibir/My-Porfolio?style=flat-square&labelColor=black&color=black" />
       <br/>
-      <img src="https://img.shields.io/github/languages/top/mahmudnibir/yt-extension-enhanced?style=flat-square&labelColor=black&color=black" />
+      Personal portfolio website with custom design, hosted at nibirmahmud.me.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/HTML-e34c26?style=flat-square" />
+      <img src="https://img.shields.io/badge/css-563d7c?style=flat-square" />
+      <img src="https://img.shields.io/badge/portfolio-black?style=flat-square" />
+    </td>
+    <td valign="top" width="50%">
+      <a href="https://github.com/mahmudnibir/Ghost-Proxy"><b>Ghost-Proxy</b></a>
+      &nbsp;
+      <img src="https://img.shields.io/github/stars/mahmudnibir/Ghost-Proxy?style=flat-square&labelColor=black&color=black&logo=star&logoColor=white" />
+      <img src="https://img.shields.io/github/forks/mahmudnibir/Ghost-Proxy?style=flat-square&labelColor=black&color=black" />
+      <br/>
+      Voice-controlled GoLogin proxy automation using PyAutoGUI — hands-free proxy rotation and management.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Python-3572A5?style=flat-square" />
+      <img src="https://img.shields.io/badge/proxy--automation-black?style=flat-square" />
+      <img src="https://img.shields.io/badge/voice--commands-black?style=flat-square" />
     </td>
   </tr>
 </table>
