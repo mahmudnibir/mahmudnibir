@@ -26,30 +26,86 @@ I build software products, developer tools, and game projects.
 
 ## 🚀 Work Showcase
 
-<div align="center">
-
-  <a href="https://github.com/mahmudnibir/2048">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mahmudnibir&repo=2048&theme=transparent&hide_border=true&title_color=000000&text_color=555555&icon_color=000000" alt="2048" />
-  </a>
-  <a href="https://github.com/mahmudnibir/CleanUpFollowing">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mahmudnibir&repo=CleanUpFollowing&theme=transparent&hide_border=true&title_color=000000&text_color=555555&icon_color=000000" alt="CleanUpFollowing" />
-  </a>
-
-  <a href="https://github.com/mahmudnibir/HiddenMessage">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mahmudnibir&repo=HiddenMessage&theme=transparent&hide_border=true&title_color=000000&text_color=555555&icon_color=000000" alt="HiddenMessage" />
-  </a>
-  <a href="https://github.com/mahmudnibir/Forscape-Game">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mahmudnibir&repo=Forscape-Game&theme=transparent&hide_border=true&title_color=000000&text_color=555555&icon_color=000000" alt="Forscape-Game" />
-  </a>
-
-  <a href="https://github.com/mahmudnibir/Anger">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mahmudnibir&repo=Anger&theme=transparent&hide_border=true&title_color=000000&text_color=555555&icon_color=000000" alt="Anger" />
-  </a>
-  <a href="https://github.com/mahmudnibir/yt-extension-enhanced">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mahmudnibir&repo=yt-extension-enhanced&theme=transparent&hide_border=true&title_color=000000&text_color=555555&icon_color=000000" alt="yt-extension-enhanced" />
-  </a>
-
-</div>
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <a href="https://github.com/mahmudnibir/2048">
+        <b>⬜ 2048</b>
+      </a>
+      <br/>
+      A modern and responsive web-based version of the classic 2048 puzzle. Built with HTML, CSS, and JavaScript, featuring smooth animations and intuitive controls.
+      <br/><br/>
+      <img src="https://img.shields.io/github/stars/mahmudnibir/2048?style=flat-square&labelColor=black&color=black&logo=star&logoColor=white" />
+      <img src="https://img.shields.io/github/forks/mahmudnibir/2048?style=flat-square&labelColor=black&color=black&logo=git-fork&logoColor=white" />
+      <br/>
+      <img src="https://img.shields.io/badge/HTML-e34c26?style=flat-square&logo=html5&logoColor=white" />
+    </td>
+    <td valign="top" width="50%">
+      <a href="https://github.com/mahmudnibir/CleanUpFollowing">
+        <b>⬜ CleanUpFollowing</b>
+      </a>
+      <br/>
+      Automated GitHub unfollow script to manage your following list efficiently.
+      <br/><br/>
+      <img src="https://img.shields.io/github/stars/mahmudnibir/CleanUpFollowing?style=flat-square&labelColor=black&color=black&logo=star&logoColor=white" />
+      <img src="https://img.shields.io/github/forks/mahmudnibir/CleanUpFollowing?style=flat-square&labelColor=black&color=black&logo=git-fork&logoColor=white" />
+      <br/>
+      <img src="https://img.shields.io/badge/Python-3572A5?style=flat-square&logo=python&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <a href="https://github.com/mahmudnibir/HiddenMessage">
+        <b>⬜ HiddenMessage</b>
+      </a>
+      <br/>
+      A Python script that uses LSB steganography to hide and extract secret text in images. Encrypts the message with AES before embedding.
+      <br/><br/>
+      <img src="https://img.shields.io/github/stars/mahmudnibir/HiddenMessage?style=flat-square&labelColor=black&color=black&logo=star&logoColor=white" />
+      <img src="https://img.shields.io/github/forks/mahmudnibir/HiddenMessage?style=flat-square&labelColor=black&color=black&logo=git-fork&logoColor=white" />
+      <br/>
+      <img src="https://img.shields.io/badge/Python-3572A5?style=flat-square&logo=python&logoColor=white" />
+    </td>
+    <td valign="top" width="50%">
+      <a href="https://github.com/mahmudnibir/Forscape-Game">
+        <b>⬜ Forscape-Game</b>
+      </a>
+      <br/>
+      A thrilling 2D platformer developed with Python and Pygame, featuring stunning graphics, smooth animations, double jump ability, and collectible gems.
+      <br/><br/>
+      <img src="https://img.shields.io/github/stars/mahmudnibir/Forscape-Game?style=flat-square&labelColor=black&color=black&logo=star&logoColor=white" />
+      <img src="https://img.shields.io/github/forks/mahmudnibir/Forscape-Game?style=flat-square&labelColor=black&color=black&logo=git-fork&logoColor=white" />
+      <br/>
+      <img src="https://img.shields.io/badge/Python-3572A5?style=flat-square&logo=python&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <a href="https://github.com/mahmudnibir/Anger">
+        <b>⬜ Anger</b>
+      </a>
+      <br/>
+      An active product and engineering project from my development workflow.
+      <br/><br/>
+      <img src="https://img.shields.io/github/stars/mahmudnibir/Anger?style=flat-square&labelColor=black&color=black&logo=star&logoColor=white" />
+      <img src="https://img.shields.io/github/forks/mahmudnibir/Anger?style=flat-square&labelColor=black&color=black&logo=git-fork&logoColor=white" />
+      <br/>
+      <img src="https://img.shields.io/github/languages/top/mahmudnibir/Anger?style=flat-square&labelColor=black&color=black" />
+    </td>
+    <td valign="top" width="50%">
+      <a href="https://github.com/mahmudnibir/yt-extension-enhanced">
+        <b>⬜ yt-extension-enhanced</b>
+      </a>
+      <br/>
+      A browser extension focused on practical UI enhancements for YouTube.
+      <br/><br/>
+      <img src="https://img.shields.io/github/stars/mahmudnibir/yt-extension-enhanced?style=flat-square&labelColor=black&color=black&logo=star&logoColor=white" />
+      <img src="https://img.shields.io/github/forks/mahmudnibir/yt-extension-enhanced?style=flat-square&labelColor=black&color=black&logo=git-fork&logoColor=white" />
+      <br/>
+      <img src="https://img.shields.io/github/languages/top/mahmudnibir/yt-extension-enhanced?style=flat-square&labelColor=black&color=black" />
+    </td>
+  </tr>
+</table>
 
 <div align="center">
   <a href="https://github.com/mahmudnibir?tab=repositories" target="_blank">
