@@ -8,6 +8,8 @@
   [![Facebook](https://img.shields.io/badge/Facebook-black?style=flat-square&logo=facebook)](https://www.facebook.com/nibirmahmud17)
   [![Github](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github)](https://github.com/mahmudnibir)
   [![Portfolio](https://img.shields.io/badge/Portfolio-black?style=flat-square&logo=vercel)](nibirmahmud.me)
+
+  ![Profile Views](https://komarev.com/ghpvc/?username=mahmudnibir&style=flat-square&color=000000&label=Profile+Views)
 </div>
 
 ---
