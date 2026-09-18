@@ -5,7 +5,7 @@
   **Software Enthusiast | Game Dev | Tech Enthusiast**
 
   [![Email](https://img.shields.io/badge/Email-black?style=flat-square&logo=gmail)](mailto:nibirbbkr@gmail.com) 
-  [![Facebook](https://img.shields.io/badge/Facebook-black?style=flat-square&logo=facebook)](https://www.facebook.com/nibirmahmud17)
+  [![Facebook](https://img.shields.io/badge/Facebook-black?style=flat-square&logo=facebook)](https://www.facebook.com/devnibir)
   [![Github](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github)](https://github.com/mahmudnibir)
   [![Portfolio](https://img.shields.io/badge/Portfolio-black?style=flat-square&logo=vercel)](nibirmahmud.me)
 
